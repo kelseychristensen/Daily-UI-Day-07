@@ -1,0 +1,43 @@
+body, html {
+    height: 100%;
+    background: #1B2642;
+    color: rgb(134, 158, 219)
+}
+
+.container {
+    padding-top: 5%;
+}
+
+.col-9 {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(134, 158, 219, .1);
+    padding: 2%;
+    margin-bottom: 3%;
+}
+
+#top-row {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(134, 158, 219, .1);
+    margin-bottom: 3%;
+}
+
+img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+#img-container {
+    padding: 5%;
+}
+
+input {
+    background: rgb(134, 158, 219);
+}
+
+@media only screen and (min-width: 1400px) {
+  .container {
+      width: 40%;
+  }
+}
