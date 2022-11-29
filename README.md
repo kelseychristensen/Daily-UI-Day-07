@@ -12,8 +12,7 @@ challenge.</a></p>
 
 ## Screenshots
 
-![Light Mode](scsh1.PNG "Light Mode Screenshot")
-![Dark Mode](scsh2.PNG "Dark Mode Screenshot")
+![Light Mode](scsh1.PNG "Screenshot")
 
 
 ## My process
