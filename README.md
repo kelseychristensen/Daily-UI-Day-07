@@ -11,7 +11,7 @@ challenge.</a></p>
 - [Dribbble](https://dribbble.com/shots/20017772-Daily-UI-Day-007-User-Settings "Dribbble Link 1")
 
 ## Screenshots
-
+![Case Study](https://cdn.dribbble.com/users/10915163/screenshots/20017772/media/652e6c09a02c13b48239b13a211a693b.png?compress=1&resize=1000x750&vertical=top "Dribbble"]
 ![Light Mode](scsh1.PNG "Screenshot light mode")
 ![Dark Mode](scsh2.PNG "Screenshot dark mode")
 
