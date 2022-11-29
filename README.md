@@ -1,16 +1,14 @@
-<h1>Daily UI Day 03: Splash Page</h1>
+<h1>Daily UI Day 007: User Settings Page</h1>
 
 <p>
 These are some user settings for Daily UI's Day 07 challenge for the <a href="https://www.dailyui.co/"> 100 Days of UI 
 challenge.</a></p>
 
 
-
 ## Links
 
 - [Repo](https://github.com/kelseychristensen/Daily-UI-Day-07 "Daily UI Day 07 Repo")
-- [Dribbble, Light Mode Snapshot](https://dribbble.com/shots/20008085-Daily-UI-Day-7-User-Settings-Light-Mode "Dribbble Link 1")
-- [Dribbble, Dark Mode Snapshot](https://dribbble.com/shots/20008090-Daily-UI-Day-7-Dark-Mode "Dribbble Link 2")
+- [Dribbble, Light Mode Snapshot](https://dribbble.com/shots/20017772-Daily-UI-Day-007-User-Settings "Dribbble Link 1")
 
 ## Screenshots
 
