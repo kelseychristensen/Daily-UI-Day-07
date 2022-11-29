@@ -8,12 +8,12 @@ challenge.</a></p>
 ## Links
 
 - [Repo](https://github.com/kelseychristensen/Daily-UI-Day-07 "Daily UI Day 07 Repo")
-- [Dribbble, Light Mode Snapshot](https://dribbble.com/shots/20017772-Daily-UI-Day-007-User-Settings "Dribbble Link 1")
+- [Dribbble](https://dribbble.com/shots/20017772-Daily-UI-Day-007-User-Settings "Dribbble Link 1")
 
 ## Screenshots
 
-![Light Mode](scsh1.PNG "Screenshot")
-
+![Light Mode](scsh1.PNG "Screenshot light mode")
+![Dark Mode](scsh2.PNG "Screenshot dark mode")
 
 ## My process
 
